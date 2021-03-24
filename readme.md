@@ -18,6 +18,8 @@ https://youtu.be/ZG4hgUo7EBM
 
 **Mods inside are made by CrowdedMods** [link](https://github.com/CrowdedMods/CrowdedMod)
 
+**More colors mod by Snowad14** [link](https://github.com/Snowad14/Mores-Colors)
+
 **Pictures:**
 
 ![Preview](https://github.com/Bossgamerteam/100-player-among-us-mod/blob/main/Img/unknown.png?raw=true)
