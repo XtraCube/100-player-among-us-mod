@@ -1,7 +1,7 @@
 
 **Created by Boss_GamerYT#0001**
 
-Requires among us v2021.3.9s found [here](https://downgrade.bossurl.tk)
+Requires among us v2021.3.5s found [here](https://downgrade.bossurl.tk)
 
 ## [DISCORD SERVER](https://discord.gg/BteZS5C3Sm "DISCORD SERVER")
 
