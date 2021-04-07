@@ -24,3 +24,6 @@ https://youtu.be/ZG4hgUo7EBM
 **Pictures:**
 
 ![Preview](https://github.com/Bossgamerteam/100-player-among-us-mod/blob/main/Img/unknown.png?raw=true)
+
+**Wollo**
+##[Click Here](https://github.com/Bossgamerteam/100-player-among-us-mod/wiki)
