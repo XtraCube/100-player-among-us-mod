@@ -24,7 +24,7 @@ https://youtu.be/ZG4hgUo7EBM
 
 **Mods inside are made by CrowdedMods** [link](https://github.com/CrowdedMods/CrowdedMod)
 
-**More colors mod by Snowad14** [link](https://github.com/Snowad14/Mores-Colors)
+**More colors mod by brupes** [link](https://www.curseforge.com/among-us/all-mods/colorsplus)
 
 **Pictures:**
 
