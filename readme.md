@@ -28,5 +28,5 @@ https://youtu.be/ZG4hgUo7EBM
 
 **Pictures:**
 
-![Preview](https://github.com/Bossgamerteam/100-player-among-us-mod/blob/main/Img/unknown.png?raw=true)
+![Preview](https://github.com/Bossgamerteam/100-player-among-us-mod/blob/main/Img/unknown%202.PNG?raw=true)
 
